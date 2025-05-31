@@ -74,6 +74,7 @@ export function AppSidebar() {
             </SidebarContent>
             <SidebarFooter>
                 <h2 className='p-2 text-gray-400 text-sm'>Copyright @sushant</h2>
+                
             </SidebarFooter>
         </Sidebar>
     )
